@@ -12,6 +12,12 @@ Who needs what and where?
 
 ## Clustering methodologies
 
-*Core approaches* - required by grant proposal (Manchester)
+*Core approaches* - required by grant proposal
 
 1. Multi-state modelling (MSM) 
+2. tbc
+
+* Secondary approaches
+
+1. tbc
+2. tbc
