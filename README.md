@@ -1,6 +1,6 @@
 # MUM-PREDICT
 
-WP1 analysis and methodologyrepository for the MUM-PREDICT project.
+WP1 analysis and methodology repository for the MUM-PREDICT project.
 
 ## Team Members
 
