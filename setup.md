@@ -20,7 +20,7 @@ Mapping which researchers need access to which data sets etc.
 | NSD | | | |
 | NIMATS | | | |
 
-## Clustering methodologies
+## Analysis methodologies
 
 *Core approaches* - required by grant proposal
 
