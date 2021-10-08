@@ -2,6 +2,11 @@
 
 WP1 repository for the MUM-PREDICT project.
 
+## Team Members
+
+- Christopher Yau
+- (please insert)
+
 ## Overview 
 
 We will determine the clusters and trajectories of health conditions in pregnant women with pre-existing MM. We will define morbidities as a continuum where possible using biomarkers and physiological measurements, and take into account subclinical disease status (e.g. subclinical hypothyroidism) and severity of disease (e.g. diabetes with microvascular complications). Our preliminary cluster analysis featured dominance of mental health conditions for women entering pregnancy with MM, but also, distinct clusters driven by metabolic-inflammatory pathways. 
