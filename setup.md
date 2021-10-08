@@ -8,7 +8,7 @@ Who is responsible for which data set?
 
 ## Data access and permissions
 
-Who needs what and where?
+Mapping which researchers need access to which data sets etc.
 
 | Dataset | Who | Needs access | By When |
 | ------- | --- | ------------ | ------- |
@@ -29,3 +29,10 @@ Who needs what and where?
 
 1. tbc
 2. tbc
+
+## Sub-project roles
+
+1. Overall WP coordination
+2. Links to other WPs
+3. Database Leads
+4. tbc
