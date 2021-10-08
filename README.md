@@ -5,7 +5,9 @@ WP1 analysis and methodology repository for the MUM-PREDICT project.
 ## Team Members
 
 - Christopher Yau
-- (please insert)
+- 1x PDRA (Manchester, to be appointed)
+- Jonathan Kennedy
+- Utkarsh Agrawal
 
 ## Overview 
 
