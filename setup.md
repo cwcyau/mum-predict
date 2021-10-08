@@ -10,6 +10,14 @@ Who is responsible for which data set?
 
 Who needs what and where?
 
+| Dataset | Who | Needs access | By When |
+| ------- | --- | ------------ | ------- |
+| CPRD | | | |
+| SAIL | | | |
+| BiB | | | |
+| NSD | | | |
+| NIMATS | | | |
+
 ## Clustering methodologies
 
 *Core approaches* - required by grant proposal
