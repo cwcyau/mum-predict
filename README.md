@@ -35,9 +35,3 @@ MSRMs model the probability of an individual transitioning from one set of condi
 3) Time-points for future preventive interventions (Yr2); and 
 4) Inequalities observed and strategies to reduce them (Yr3).
 
-## Objectives
-
-
-
-## Milestones
-
