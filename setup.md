@@ -4,7 +4,9 @@ Information about sub-project setup.
 
 ## Data preparation
 
-Who is responsible for which data set?
+- Who is responsible for which data set?
+- What variables are available?
+- What common format to enable reproducible analysis?
 
 ## Data access and permissions
 
