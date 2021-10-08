@@ -21,8 +21,9 @@ In addition, we will report how these clusters differ by age, ethnicity and soci
 
 - CPRD Pregnancy Register with Mother-Baby linkage and Hospital Episodes Statistics (HES) linkage (UK), 
 - SAIL (Wales), 
-- NSD (Scotland) & Northern Ireland Maternity System (NIMATS) 
-- Born in Bradford (BiB) Cohort Data.
+- NSD (Scotland)
+- Northern Ireland Maternity System (NIMATS) 
+- Born in Bradford (BiB).
 
 ## Analysis plan
 
