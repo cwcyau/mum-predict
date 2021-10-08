@@ -17,7 +17,7 @@ Who needs what and where?
 1. Multi-state modelling (MSM) 
 2. tbc
 
-* Secondary approaches
+*Secondary approaches*
 
 1. tbc
 2. tbc
