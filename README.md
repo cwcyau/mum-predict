@@ -9,6 +9,7 @@ WP1 analysis and methodology repository for the MUM-PREDICT project.
 - Jonathan Kennedy
 - Utkarsh Agrawal
 - Sinead Brophy
+- Siang Ing Lee
 
 ## Overview 
 
