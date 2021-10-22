@@ -7,6 +7,7 @@ WP1 analysis and methodology repository for the MUM-PREDICT project.
 - Christopher Yau
 - 1x PDRA (Manchester, to be appointed)
 - Jonathan Kennedy
+- Mohamed Mhereeg
 - Utkarsh Agrawal
 - Sinead Brophy
 - Siang Ing Lee
